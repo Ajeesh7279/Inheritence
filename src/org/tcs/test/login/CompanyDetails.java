@@ -11,9 +11,14 @@ public class CompanyDetails {
 	}
 	
 	public static void main(String[] args) {
+
+		CompanyDetails c =new CompanyDetails();
+		
+
 		comId();
 		comName();
 		
+
 	}
 	
 	

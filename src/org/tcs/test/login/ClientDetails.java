@@ -15,11 +15,7 @@ public class ClientDetails extends CompanyDetails {
 	public static void main(String[] args) {
 		ClientDetails z=new ClientDetails();
 		 
-		z.clientId();
-		z.clientName();
-		z.comId();
-		z.comName();
-	
+		
 	}
 	
 	
